@@ -1,0 +1,7 @@
+{
+  "appId": "com.printzone.presscost",
+  "appName": "PressCost",
+  "webDir": "www",
+  "backgroundColor": "#71bf45",
+  "android": { "backgroundColor": "#71bf45" }
+}
